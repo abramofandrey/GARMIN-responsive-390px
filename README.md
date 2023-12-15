@@ -1,1 +1,1 @@
-# GARMIN-responsive1
+# GARMIN-responsive-390px
